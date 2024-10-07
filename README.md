@@ -4,7 +4,7 @@ I'm interested in Web Development and Embedded Systems
 - 💞️ I’m looking to collaborate on my website project
 - 📫 How to reach me: rafikikasarabu@gmail.com, +243 991 329 395
 - 😄 Pronouns: He
-- ⚡ Fun fact: Slim but heavier
+- ⚡ Fun fact: Slim but heavy
 
 <!---
 Raf243/Raf243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
