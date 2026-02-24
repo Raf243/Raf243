@@ -1,8 +1,8 @@
 Hello everyone, I'm Rafiki Kasarabu
-I'm interested in Web Development and Embedded Systems
-- 🌱 I’m currently learning JavaScript and C++
-- 💞️ I’m looking to collaborate on my website project
-- 📫 How to reach me: rafikikasarabu@gmail.com, +243 991 329 395
+I'm interested in Artificial Intelligence and Machine Learning as well as Java.
+- 🌱 I’m currently learning Supervised and Reinforcement Learning
+- 💞️ I’m looking to collaborate on my projects
+- 📫 How to reach me: rafikikasarabu@gmail.com, +243 844 851 876
 - 😄 Pronouns: He
 - ⚡ Fun fact: Slim but heavy
 
